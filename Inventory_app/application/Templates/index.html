@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1 class="title">{% block title %} Products {% endblock %}</h1>
+    <div class="content">
+        {% for product in products %}
+            <div class="product">
+                <p><b>#{{ product.product_id }}</b></p>
+                <b>
+                    <p class="name">{{ product.product_name }} {{ product.category }}</p>
+                </b>
+                <p>{{ product.sub_category }}</p>
+                <p>{{ product.age }} </p>
+                <p>Joined: {{ product.price }}</p>
+                <div class="bio">
+                    <h4>size</h4>
+                    <p>{{ product.size }}</p>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}
