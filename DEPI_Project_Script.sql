@@ -9,6 +9,7 @@ use InventoryManager;
 
 	
 -- Create Products Table
+-- name VARCHAR(255)
 CREATE TABLE Products (
     Product_ID NVARCHAR(20) PRIMARY KEY,
     Product_Name VARCHAR(75) NOT NULL,
