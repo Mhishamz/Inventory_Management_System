@@ -7,3 +7,6 @@ the web app
 
 # products page 
 ![image](https://github.com/user-attachments/assets/9b62a429-6ded-4ddd-ab2d-49380df4a3c9)
+
+# trial
+https://drive.google.com/file/d/1URxhD39J1lfHL6lXnFfLL2IY-72SMIIr/view?usp=sharing
