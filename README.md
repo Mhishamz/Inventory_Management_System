@@ -22,3 +22,6 @@ The goal of this project is to build a comprehensive, end-to-end data engineerin
 # Videos for Website & Detection model
 https://drive.google.com/file/d/1uvNgYHG4XkvXSIDFl-zxtfZEYpbRGlCz/view?usp=drive_link
 https://drive.google.com/file/d/1URxhD39J1lfHL6lXnFfLL2IY-72SMIIr/view?usp=sharing
+
+
+- For more information and details check the final report file
